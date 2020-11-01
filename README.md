@@ -1,16 +1,13 @@
-# secure_sign_up
+# Security password
 
-A new Flutter project.
+UI design implemented with flutter.
 
-## Getting Started
+Design: [Set password screen](https://medium.com/sketch-app-sources/how-i-made-it-energy-consumption-application-ux-case-study-dd2af0fc705d)
 
-This project is a starting point for a Flutter application.
+## Design
 
-A few resources to get you started if this is your first Flutter project:
+![Farmers Market Finder Demo](demo/design.gif)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Implementation
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Farmers Market Finder Demo](demo/implementation.gif)
